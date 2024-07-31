@@ -1,0 +1,1 @@
+# Worldometer Scrapy data
